@@ -47,7 +47,8 @@ Purpose: Give management a quick overview of the Superstore's sales performance 
 <img width="1073" height="589" alt="Dashboard 1 " src="https://github.com/user-attachments/assets/dd0440f2-2cd5-4257-ac5e-99a14be9ae0f" />
 ## Page 2 - Product, Customer & Market Analysis
 Purpose: Understand the products, customers and locations contributing to the Superstore's sales.
-![Superstore Sales Dashboard](images/Dashboard 2 Superstore.png)
+<img width="794" height="476" alt="Dashboard 2 Superstore" src="https://github.com/user-attachments/assets/3390d6b5-a74b-45cd-bc74-4aa24b3c35cd" />
+
 
 ### Key findings
 ---

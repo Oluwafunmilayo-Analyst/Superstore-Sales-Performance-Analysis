@@ -1,3 +1,4 @@
+
 # Superstore-Sales-Performance-Analysis
 ---
 
@@ -43,8 +44,7 @@ The following business questions were analyzed.
 ### Dashboard
 ## Page 1- Executive Sales Overview
 Purpose: Give management a quick overview of the Superstore's sales performance and identify its main revenue sources.
-![Superstore Sales Dashboard](images/Dashboard 1.png)
-
+<img width="1073" height="589" alt="Dashboard 1 " src="https://github.com/user-attachments/assets/dd0440f2-2cd5-4257-ac5e-99a14be9ae0f" />
 ## Page 2 - Product, Customer & Market Analysis
 Purpose: Understand the products, customers and locations contributing to the Superstore's sales.
 ![Superstore Sales Dashboard](images/Dashboard 2 Superstore.png)

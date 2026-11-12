@@ -52,17 +52,17 @@ Purpose: Understand the products, customers and locations contributing to the Su
 
 ### Key findings
 ---
-1. Monthly Sales Trend
+- Monthly Sales Trend
 Sales were strongest in month September, November and December and weakest in month Januray and Febuary. This suggests a possible seasonal pattern in customer purchasing behaviour.
-2. Annual Sales Trend
+- Annual Sales Trend
 Sales increased from 2015 to 2018, indicating growth in the business's revenue performance. The highest sales were recorded in 2018, while 2015 recorded the lowest.
-3. Sales by Region
+- Sales by Region
 West Region generated the highest sales, contributing N710,220, while South Region recorded the lowest sales.
-4. Sales by Product Subcategory
+- Sales by Product Subcategory
 Phone Subcategory generated the highest sales, while Fasteners Subcategory recorded the lowest. 
-5. Sales by Customer Segment
+- Sales by Customer Segment
 The Consumer segment generated the highest sales, contributing N1,148,061, compared with other customer segments.
-6. Top 10 Customers by Sales
+- Top 10 Customers by Sales
 The top 10 customers contributed N153,810 in sales, with Sean Miller recording the highest individual sales value.
 
 Note: High sales do not necessarily mean high profit. A product may generate substantial revenue but still be unprofitable. The current dataset cannot establish that.

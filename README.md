@@ -35,11 +35,11 @@ The source of the Dataset analyzed in this project is Kaggle. The data contains 
 ### Business Questions:
 ---
 The following business questions were analyzed.
-1.How has sales performance changed over time?
-2.Which product subcategories generate the highest sales?
-3.Which regions contributes most to total sales?
-4.Which customer segments contribute most to sales?
-5.Which customers contribute the highest sales value?
+- How has sales performance changed over time?
+- Which product subcategories generate the highest sales?
+- Which regions contributes most to total sales?
+- Which customer segments contribute most to sales?
+- Which customers contribute the highest sales value?
 
 ### Dashboard
 ## Page 1- Executive Sales Overview

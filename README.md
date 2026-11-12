@@ -86,3 +86,5 @@ The top 10 customers contributed N153,810 in sales, with Sean Miller recording t
 
 ### Conclusion
 The Superstore Sales Performance Analysis examined historical sales data to understand revenue trends, product performance, geographical contributions and customer purchasing patterns. Using Microsoft Excel, The analysis identified the major contributors to sales and areas requiring further business attention. The findings provide management with insights to support sales planning, customer engagement and product-market decisions.
+
+[Click here to view the full project](https://drive.google.com/drive/folders/1dHzuaXCQ5MtJJmRbPFLukkm9dt2frPah?usp=drive_link)

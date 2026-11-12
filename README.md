@@ -65,7 +65,7 @@ The Consumer segment generated the highest sales, contributing N1,148,061, compa
 - Top 10 Customers by Sales: 
 The top 10 customers contributed N153,810 in sales, with Sean Miller recording the highest individual sales value.
 
-Note: High sales do not necessarily mean high profit. A product may generate substantial revenue but still be unprofitable. The current dataset cannot establish that.
+## Note: High sales do not necessarily mean high profit. A product may generate substantial revenue but still be unprofitable. The current dataset cannot establish that.
 
 ### Recommendations
 ---
